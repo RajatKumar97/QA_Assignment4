@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Assignment4QA\Assignment4QA\bin\Debug\Assignment4QA.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Assignment4QA\Assignment4QA\bin\Debug\Assignment4QA.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Assignment4QA\Assignment4QA\bin\Debug\Assignment4QA.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Assignment4QA\Assignment4QA\bin\Debug\nunit.framework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Assignment4QA\Assignment4QA\bin\Debug\nunit.framework.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Assignment4QA\Assignment4QA\obj\Debug\Assignment4QA.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Assignment4QA\Assignment4QA\obj\Debug\Assignment4QA.pdb

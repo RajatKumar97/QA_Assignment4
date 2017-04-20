@@ -1,0 +1,10 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Assignment4QA\Assignment4.TestQA\obj\Debug\Assignment4.TestQA.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Assignment4QA\Assignment4.TestQA\bin\Debug\Assignment4.TestQA.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Assignment4QA\Assignment4.TestQA\bin\Debug\Assignment4.TestQA.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Assignment4QA\Assignment4.TestQA\bin\Debug\Assignment4QA.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Assignment4QA\Assignment4.TestQA\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Assignment4QA\Assignment4.TestQA\bin\Debug\nunit.framework.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Assignment4QA\Assignment4.TestQA\bin\Debug\Assignment4QA.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Assignment4QA\Assignment4.TestQA\bin\Debug\nunit.framework.xml
+c:\users\administrator\documents\visual studio 2015\Projects\Assignment4QA\Assignment4.TestQA\obj\Debug\Assignment4.TestQA.dll
+c:\users\administrator\documents\visual studio 2015\Projects\Assignment4QA\Assignment4.TestQA\obj\Debug\Assignment4.TestQA.pdb
